@@ -1,2 +1,1 @@
-# COIN-iran-it is an dex that i made it for my project 
-i hope to pass 
+IT IS AN EXCHANGE THAT WE CAN BUY AND SELL IN IT 
